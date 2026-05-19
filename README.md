@@ -1,4 +1,4 @@
-# Alex Carter Portfolio
+̣ Alex Carter Portfolio
 
 A modern frontend developer portfolio built with React, Tailwind CSS, Vite, React Router, and Framer Motion.
 
